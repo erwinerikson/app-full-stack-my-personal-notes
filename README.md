@@ -1,6 +1,6 @@
 # My Personal Notes
 
-![Screenshot App](github_software4)
+![Screenshot App](github_software4.jpg)
 
 
 Aplikasi dibangun menggunakan ekosistem Vite dengan memanfaatkan templat yang disediakan oleh Vite.
